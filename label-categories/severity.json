@@ -1,0 +1,14 @@
+[
+  {
+    "name": "severity:major",
+    "color": "d93f0b"
+  },
+  {
+    "name": "severity:minor",
+    "color": "f9d0c4"
+  },
+  {
+    "name": "severity:normal",
+    "color": "f9d0c4"
+  }
+]

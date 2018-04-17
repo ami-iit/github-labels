@@ -1,0 +1,14 @@
+[
+  {
+    "name": "platform:linux",
+    "color": "d4c5f9"
+  },
+  {
+    "name": "platform:macOS",
+    "color": "d4c5f9"
+  },
+  {
+    "name": "platform:windows",
+    "color": "d4c5f9"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "complexity:hard",
+    "color": "c2e0c6"
+  },
+  {
+    "name": "complexity:low",
+    "color": "c2e0c6"
+  },
+  {
+    "name": "complexity:medium",
+    "color": "c2e0c6"
+  },
+  {
+    "name": "complexity:trivial",
+    "color": "c2e0c6"
+  }
+]

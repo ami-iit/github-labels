@@ -1,0 +1,14 @@
+[
+  {
+    "name": "status:backlog",
+    "color": "ededed"
+  },
+  {
+    "name": "status:feedback",
+    "color": "ededed"
+  },
+  {
+    "name": "status:in-progress",
+    "color": "ededed"
+  }
+]

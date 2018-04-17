@@ -1,0 +1,142 @@
+[
+  {
+    "name": "component:cmake",
+    "color": "efc728"
+  },
+  {
+    "name": "component:examples",
+    "color": "efc728"
+  },
+  {
+    "name": "component:yarp",
+    "color": "efc728"
+  },
+  {
+    "name": "component:skin",
+    "color": "efc728"
+  },
+  {
+    "name": "component:gazebo-yarp-plugins",
+    "color": "efc728"
+  },
+  {
+    "name": "component:gazebo",
+    "color": "efc728"
+  },
+  {
+    "name": "component:reinforcement-learning",
+    "color": "efc728"
+  },
+  {
+    "name": "component:locomotion",
+    "color": "efc728"
+  },
+  {
+    "name": "component:manipulation",
+    "color": "efc728"
+  },
+  {
+    "name": "component:reactive-phri",
+    "color": "efc728"
+  },
+  {
+    "name": "component:human-dynamics-estimation",
+    "color": "efc728"
+  },
+  {
+    "name": "component:xsens",
+    "color": "efc728"
+  },
+  {
+    "name": "component:robot-configurations",
+    "color": "efc728"
+  },
+  {
+    "name": "component:icub-models",
+    "color": "efc728"
+  },
+  {
+    "name": "component:icub-firmware",
+    "color": "efc728"
+  },
+  {
+    "name": "component:codyco-modules",
+    "color": "efc728"
+  },
+  {
+    "name": "component:idyntree",
+    "color": "efc728"
+  },
+  {
+    "name": "component:ft-sensors",
+    "color": "efc728"
+  },
+  {
+    "name": "component:whole-body-dynamics",
+    "color": "efc728"
+  },
+  {
+    "name": "component:codyco-superbuild",
+    "color": "efc728"
+  },
+  {
+    "name": "component:robotology-superbuild",
+    "color": "efc728"
+  },
+  {
+    "name": "component:yarpdatadumper",
+    "color": "efc728"
+  },
+  {
+    "name": "component:yarpdataplayer",
+    "color": "efc728"
+  },
+  {
+    "name": "component:icub-support",
+    "color": "efc728"
+  },
+  {
+    "name": "component:documentation",
+    "color": "efc728"
+  },
+  {
+    "name": "component:doxygen",
+    "color": "efc728"
+  },
+  {
+    "name": "component:continuous-integration",
+    "color": "efc728"
+  },
+  {
+    "name": "component:dataset",
+    "color": "efc728"
+  },
+  {
+    "name": "component:bindings",
+    "color": "efc728"
+  },
+  {
+    "name": "component:library-coder",
+    "color": "efc728"
+  },
+  {
+    "name": "component:library-mex",
+    "color": "efc728"
+  },
+  {
+    "name": "component:library-wbt",
+    "color": "efc728"
+  },
+  {
+    "name": "component:simulink",
+    "color": "efc728"
+  },
+  {
+    "name": "component:tests",
+    "color": "efc728"
+  },
+  {
+    "name": "component:website",
+    "color": "efc728"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "name": "type:admin",
+    "color": "c5def5"
+  },
+  {
+    "name": "type:purchase",
+    "color": "c5def5"
+  },
+  {
+    "name": "type:material",
+    "color": "c5def5"
+  },
+  {
+    "name": "type:literature-review",
+    "color": "c5def5"
+  },
+  {
+    "name": "type:theory",
+    "color": "c5def5"
+  },
+  {
+    "name": "type:observations",
+    "color": "c5def5"
+  },
+  {
+    "name": "type:announcement",
+    "color": "c5def5"
+  },
+  {
+    "name": "type:bug",
+    "color": "c5def5"
+  },
+  {
+    "name": "type:cleanup",
+    "color": "c5def5"
+  },
+  {
+    "name": "type:configuration",
+    "color": "c5def5"
+  },
+  {
+    "name": "type:brainstorming",
+    "color": "c5def5"
+  },
+  {
+    "name": "type:discussion",
+    "color": "c5def5"
+  },
+  {
+    "name": "type:meeting-minutes",
+    "color": "c5def5"
+  },
+  {
+    "name": "type:enhancement",
+    "color": "c5def5"
+  },
+  {
+    "name": "type:question",
+    "color": "c5def5"
+  },
+  {
+    "name": "type:reminder",
+    "color": "c5def5"
+  },
+  {
+    "name": "type:task",
+    "color": "c5def5"
+  },
+  {
+    "name": "type:meeting",
+    "color": "c5def5"
+  },
+  {
+    "name": "type:API-bug",
+    "color": "c5def5"
+  },
+  {
+    "name": "type:Q/A-support",
+    "color": "c5def5"
+  }
+]

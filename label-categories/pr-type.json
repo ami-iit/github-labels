@@ -1,0 +1,58 @@
+[
+  {
+    "name": "PR:branch-not-ok",
+    "color": "cff29b"
+  },
+  {
+    "name": "PR:branch-ok",
+    "color": "cff29b"
+  },
+  {
+    "name": "PR:changelog-not-ok",
+    "color": "cff29b"
+  },
+  {
+    "name": "PR:changelog-ok",
+    "color": "cff29b"
+  },
+  {
+    "name": "PR:commits-not-ok",
+    "color": "cff29b"
+  },
+  {
+    "name": "PR:commits-ok",
+    "color": "cff29b"
+  },
+  {
+    "name": "PR:review-needed",
+    "color": "cff29b"
+  },
+  {
+    "name": "PR:review-done",
+    "color": "cff29b"
+  },
+  {
+    "name": "PR:copyright-not-ok",
+    "color": "cff29b"
+  },
+  {
+    "name": "PR:copyright-ok",
+    "color": "cff29b"
+  },
+  {
+    "name": "PR:rebase-ok",
+    "color": "cff29b"
+  },
+  {
+    "name": "PR:rebase-required",
+    "color": "cff29b"
+  },
+  {
+    "name": "PR-type:bugfix",
+    "color": "d9aa9a"
+  },
+  {
+    "name": "PR-type:enhancement",
+    "color": "d9aa9a"
+  }
+]

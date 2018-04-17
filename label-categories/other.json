@@ -1,0 +1,22 @@
+[
+  {
+    "name": "help wanted",
+    "color": "0e8a16"
+  },
+  {
+    "name": "other:documentation-missing",
+    "color": "c5f7f9"
+  },
+  {
+    "name": "other:good-first-issue",
+    "color": "c5f7f9"
+  },
+  {
+    "name": "other:IFI",
+    "color": "c5f7f9"
+  },
+  {
+    "name": "other:icub-green-friday",
+    "color": "c5f7f9"
+  }
+]

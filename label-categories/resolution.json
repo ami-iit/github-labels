@@ -1,0 +1,42 @@
+[
+  {
+    "name": "resolution:answered",
+    "color": "cccccc"
+  },
+  {
+    "name": "resolution:duplicate",
+    "color": "cccccc"
+  },
+  {
+    "name": "resolution:fixed",
+    "color": "cccccc"
+  },
+  {
+    "name": "resolution:invalid",
+    "color": "cccccc"
+  },
+  {
+    "name": "resolution:merged",
+    "color": "cccccc"
+  },
+  {
+    "name": "resolution:no-feedback-received",
+    "color": "cccccc"
+  },
+  {
+    "name": "resolution:other",
+    "color": "cccccc"
+  },
+  {
+    "name": "resolution:rejected",
+    "color": "cccccc"
+  },
+  {
+    "name": "resolution:withdrawn",
+    "color": "cccccc"
+  },
+  {
+    "name": "resolution:wontfix",
+    "color": "cccccc"
+  }
+]
