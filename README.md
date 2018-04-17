@@ -32,7 +32,7 @@ e.g. `$ labels -c github-labels.json -f loc2/my-new-awesome-repo -t ${GITHUB_TOK
 
 **NOTE**: 
 
-* The option `-f` is force option which will delete all existing labels.
+* The option `-f` is force option which will delete all existing labels. A newly created repo contains some default labels and using this option will delete them!
 
 * If some of the labels in the `.json` file are already used in your new repo, the above command will throw an error. Do not worry about it, the rest of the labels will be copied correctly. Please double check this! 
 
@@ -45,4 +45,8 @@ To copy the labels from one repository to another repository use
 e.g. `$ copy-github-labels -t ${GITHUB_TOKEN} loc2/github-labels loc2/my-awesome-new-repo`
 
 **NOTE**:
+
+* If you are following this method the new labels are created alongside the existing labels. 
+
 * If some of the labels in the `.json` file are already used in your new repo, the above command will throw `Unknown label: failed (Validation Failed)` error for all the conflicting labels. Do not worry about it, the rest of the labels will be copied correctly. Please double check this!
+
