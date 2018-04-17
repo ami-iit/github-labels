@@ -1,5 +1,9 @@
 [
   {
+    "name": "other:help-wanted",
+    "color": "c5f7f9"
+  },
+  {
     "name": "other:documentation-missing",
     "color": "c5f7f9"
   },
