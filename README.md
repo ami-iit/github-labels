@@ -30,7 +30,11 @@ The package [github-labels](https://github.com/popomore/github-labels) lets you 
 
 e.g. `$ labels -c github-labels.json -f loc2/my-new-awesome-repo -t ${GITHUB_TOKEN}`
 
-**NOTE**: The option `-f` is force option which will delete all existing labels.
+**NOTE**: 
+
+* The option `-f` is force option which will delete all existing labels.
+
+* If some of the labels in the `.json` file are already used in your new repo, the above command will throw an error. Do not worry about it, the rest of the labels will be copied correctly. Please double check this! 
 
 The package [copy-github-labels-cli](https://github.com/jvandemo/copy-github-labels-cli) lets you to copy the labels from one repository to another repository.
 
@@ -40,3 +44,5 @@ To copy the labels from one repository to another repository use
 
 e.g. `$ copy-github-labels -t ${GITHUB_TOKEN} loc2/github-labels loc2/my-awesome-new-repo`
 
+**NOTE**:
+* If some of the labels in the `.json` file are already used in your new repo, the above command will throw `Unknown label: failed (Validation Failed)` error for all the conflicting labels. Do not worry about it, the rest of the labels will be copied correctly. Please double check this!
