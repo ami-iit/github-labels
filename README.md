@@ -46,6 +46,10 @@ e.g. `$ copy-github-labels -t ${GITHUB_TOKEN} loc2/github-labels loc2/my-awesome
 
 **NOTE**:
 
+* If the above command gives `/usr/bin/env: node: No such file or directory` error run the following command. This is to create a symlink to the package installed through `npm` package manager 
+
+    `sudo ln -fs /usr/bin/nodejs /usr/local/bin/node`
+
 * If you are following this method the new labels are created alongside the existing labels. 
 
 * If some of the labels in the `.json` file are already used in your new repo, the above command will throw `Unknown label: failed (Validation Failed)` error for all the conflicting labels. Do not worry about it, the rest of the labels will be copied correctly. Please double check this!
