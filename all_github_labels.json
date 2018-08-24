@@ -1,5 +1,9 @@
 [
   {
+    "name": "how-to",
+    "color": "00ffcc"
+  },
+  {
     "name": "complexity:hard",
     "color": "c2e0c6"
   },
