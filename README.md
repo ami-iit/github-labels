@@ -16,7 +16,29 @@ Then source it!
 
 you need to first install `npm` package manager
 
-`$ sudo apt-get install npm`
+`$ sudo apt-get install nodejs npm`
+
+**NOTE:** You may get the following error while installing `npm`
+
+```
+Some packages could not be installed. This may mean that you have
+requested an impossible situation or if you are using the unstable
+distribution that some required packages have not yet been created
+or been moved out of Incoming.
+The following information may help to resolve the situation:
+
+The following packages have unmet dependencies:
+npm : Depends: node-gyp (>= 0.10.9) but it is not going to be 
+installed
+E: Unable to correct problems, you have held broken packages.
+```
+In this case use the following steps:
+
+- Install the nvm (node version manager)
+
+`$ curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.0/install.sh | bash`
+
+`$ nvm install node`
 
 Then you need to install the following two packages
 * [github-labels](https://github.com/popomore/github-labels)
