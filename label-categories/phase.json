@@ -1,0 +1,22 @@
+[
+  {
+    "name": "phase:experiments",
+    "color": "e199f7"
+  },
+  {
+    "name": "phase:implementation",
+    "color": "e199f7"
+  },
+  {
+    "name": "phase:simulations",
+    "color": "e199f7"
+  },
+  {
+    "name": "phase:state-of-art",
+    "color": "e199f7"
+  },
+  {
+    "name": "phase:theory",
+    "color": "e199f7"
+  },
+]
