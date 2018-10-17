@@ -1,6 +1,8 @@
 # github-labels
 The repo contains all the GitHub issue labels we use within our organisation. The labels are stored in [all_github_labels.json](https://github.com/loc2/github-labels/blob/master/all_github_labels.json) and also stored in `.json` files for specific [categories](https://github.com/loc2/github-labels/tree/master/label-categories).
 
+**NOTE:** If you feel any general useful labels are missing kindly add them to the `.json` file and also to the `labels` of this repository.
+
 ## How-to
 A github token provides API access to npm packages that help to manage github issue labels. You can generate a personal token follow [this guide](https://help.github.com/articles/creating-a-personal-access-token-for-the-command-line/).
 
