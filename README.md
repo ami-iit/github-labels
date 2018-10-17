@@ -4,7 +4,7 @@ The repo contains all the GitHub issue labels we use within our organisation. Th
 **NOTE:** If you feel any general useful labels are missing kindly add them to the `.json` file and also to the `labels` of this repository.
 
 ## How-to
-A github token provides API access to npm packages that help to manage github issue labels. You can generate a personal token follow [this guide](https://help.github.com/articles/creating-a-personal-access-token-for-the-command-line/).
+A github token provides API access to npm packages that help to manage github issue labels. You can generate a personal token follow [this guide](https://help.github.com/articles/creating-a-personal-access-token-for-the-command-line/). Create a token by selecting all the **scopes**. You can delete the token after importing the labels to your repository. 
 
 Once a token is generated add the following lines to the `.bashrc`
 
