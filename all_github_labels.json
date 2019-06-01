@@ -1,5 +1,9 @@
 [
   {
+    "name": "phase:management",
+    "color": "e199f7"
+  },
+  {
     "name": "phase:experiments",
     "color": "e199f7"
   },
